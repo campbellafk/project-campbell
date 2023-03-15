@@ -1,2 +1,1 @@
-# project-campbell
-hey, this project is named "project campbell" and this project is to show how easily hackers could gain access to your pc with a click.
+# hey, dieses projekt heißt "project campbell" und dieses projekt soll zeigen, wie einfach hacker mit einem klick auf ihren pc zugreifen können.
